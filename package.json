@@ -10,6 +10,6 @@
 	"private": true,
 	"type": "module",
 	"dependencies": {
-		"alchemy": "0.75.1"
+		"alchemy": "https://pkg.pr.new/alchemy-run/alchemy@1156"
 	}
 }
